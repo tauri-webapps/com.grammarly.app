@@ -1,0 +1,2 @@
+# com.grammarly.app
+Grammarly
